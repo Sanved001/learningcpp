@@ -4,4 +4,5 @@ project(learningcpp)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(learningcpp main.cpp
-        TicTacToe.cpp)
+        TicTacToe.cpp
+        multiplications_or_tables_ig.cpp)

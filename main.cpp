@@ -1,21 +1,13 @@
 #include <iostream>
-#include <list>
 
+/*Gives the table of the number entered*/
 
-class Player {
-    public:
-        int* player_position_x;
-        int* player_position_y;
-        list* player_position_list(int player_position_x,int player_position_y);
-
-
-};
-
-
-
+/*
+void table_function(int a);
 int main() {
-
+    int my_a;
+    std::cin >> my_a;
+    table_function(my_a);
 }
-
-
+*/
 
